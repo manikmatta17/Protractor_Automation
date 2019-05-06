@@ -9,6 +9,6 @@ exports.config = {
   },
       
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['Equality.js']    
+  specs: ['Operators_Example.js']    
   
 }
