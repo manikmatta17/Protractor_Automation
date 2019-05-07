@@ -8,7 +8,12 @@ exports.config = {
     'browserName': 'chrome'
   },
       
-  seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['Operators_Example.js']    
+//  seleniumAddress: 'http://localhost:4444/wd/hub', [only required when webdriver manager is started manuall]
+  specs: ['Operators_Example.js'],
+  
+  // it will wait for 30ms for test to happen
+  jasmineNodeOpts: {
+    defaultTimeoutInterval: 30000
+  }
   
 }
