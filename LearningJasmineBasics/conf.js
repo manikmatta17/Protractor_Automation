@@ -9,6 +9,6 @@ exports.config = {
   },
       
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['Banking.js']    
+  specs: ['beforeeach.js']    
   
 }
