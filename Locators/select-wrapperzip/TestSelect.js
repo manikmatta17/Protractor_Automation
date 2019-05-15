@@ -15,7 +15,7 @@ describe("Select Wrapper",function(){
         browser.get("http://www.way2automation.com/angularjs-protractor/banking/#/customer");
 
        // mySelect.selectByText("Harry Potter");
-        mySelect.selectByValue("3");
+         mySelect.selectByValue("3");
         browser.sleep(2000);
 
     }) ;
@@ -24,7 +24,8 @@ describe("Select Wrapper",function(){
     it("Finding count and printing all dropdown items",function(){
 
 
-      var dropoptions = mySelect.getOptions();
+ 
+      var dropoptions = mySelect.getOptions()
 
         dropoptions.then(function(options){
 
