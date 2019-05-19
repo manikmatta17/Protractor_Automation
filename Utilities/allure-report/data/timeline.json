@@ -1,0 +1,17 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "should add one and two",
+    "uid" : "66d790987312f12f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1558266136468,
+      "stop" : 1558266143009,
+      "duration" : 6541
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

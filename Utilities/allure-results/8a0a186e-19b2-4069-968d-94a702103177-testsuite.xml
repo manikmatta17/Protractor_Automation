@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1558266136468' stop='1558266143010'>
+    <name>Protarctor Demo App</name>
+    <title>Protarctor Demo App</title>
+    <test-cases>
+        <test-case start='1558266136468' status='passed' stop='1558266143009'>
+            <name>should add one and two</name>
+            <title>should add one and two</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d96dbad8-4dad-4fb9-a2a8-7fd368a6185d-attachment.png' type='image/png' size='13520'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Protarctor Demo App",
+    "children" : [ {
+      "name" : "should add one and two",
+      "uid" : "66d790987312f12f",
+      "parentUid" : "26eb2a4529d7da57f1d477f9ea5413dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558266136468,
+        "stop" : 1558266143009,
+        "duration" : 6541
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "26eb2a4529d7da57f1d477f9ea5413dd"
+  } ]
+}

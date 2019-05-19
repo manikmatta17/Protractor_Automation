@@ -1,0 +1,61 @@
+{
+  "uid" : "66d790987312f12f",
+  "name" : "should add one and two",
+  "fullName" : "Protarctor Demo App.should add one and two",
+  "historyId" : "f5078d53065eb0a39b2d09bc7447cd1e",
+  "time" : {
+    "start" : 1558266136468,
+    "stop" : 1558266143009,
+    "duration" : 6541
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1fe76d824dc9c010",
+      "name" : "Screenshot",
+      "source" : "1fe76d824dc9c010.png",
+      "type" : "image/png",
+      "size" : 13520
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Protarctor Demo App"
+  }, {
+    "name" : "testClass",
+    "value" : "Protarctor Demo App"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add one and two"
+  }, {
+    "name" : "package",
+    "value" : "Protarctor Demo App"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66d790987312f12f.json",
+  "parameterValues" : [ ]
+}
