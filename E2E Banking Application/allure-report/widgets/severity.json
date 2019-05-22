@@ -1,0 +1,31 @@
+[ {
+  "uid" : "3463d096d2c8792c",
+  "name" : "Validate deposit",
+  "time" : {
+    "start" : 1558525073766,
+    "stop" : 1558525080669,
+    "duration" : 6903
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bd8e3d3ff5113c2",
+  "name" : "Login to the Account",
+  "time" : {
+    "start" : 1558525068094,
+    "stop" : 1558525073766,
+    "duration" : 5672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "464b2c692cc6e4b8",
+  "name" : "WithDrawl Amount",
+  "time" : {
+    "start" : 1558525080669,
+    "stop" : 1558525087480,
+    "duration" : 6811
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1558527719486' stop='1558527759072'>
+    <name>Automating Bank Manager Login Functionality</name>
+    <title>Automating Bank Manager Login Functionality</title>
+    <test-cases>
+        <test-case start='1558527719487' status='passed' stop='1558527727630'>
+            <name>Login to the Account</name>
+            <title>Login to the Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7fa6dca7-72fb-4dd5-883e-b28c2413fde1-attachment.png' type='image/png' size='12981'/>
+            </attachments>
+        </test-case>
+        <test-case start='1558527727630' status='passed' stop='1558527740674'>
+            <name>Validate Add Customer</name>
+            <title>Validate Add Customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e198e402-1e61-4e42-9c56-b100720b9ddf-attachment.png' type='image/png' size='22861'/>
+            </attachments>
+        </test-case>
+        <test-case start='1558527740674' status='passed' stop='1558527755378'>
+            <name>Validate Open Account</name>
+            <title>Validate Open Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='389aa10b-84c4-43a8-b03c-25d4c734ad40-attachment.png' type='image/png' size='21042'/>
+            </attachments>
+        </test-case>
+        <test-case start='1558527755378' status='passed' stop='1558527759071'>
+            <name>Validate Search Customer</name>
+            <title>Validate Search Customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d79ce2be-0d73-4fcc-be5e-3fb709786546-attachment.png' type='image/png' size='37820'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

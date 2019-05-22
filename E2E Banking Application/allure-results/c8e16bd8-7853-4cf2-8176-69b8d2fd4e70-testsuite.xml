@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1558527005597' stop='1558527044451'>
+    <name>Automating Bank Manager Login Functionality</name>
+    <title>Automating Bank Manager Login Functionality</title>
+    <test-cases>
+        <test-case start='1558527005597' status='passed' stop='1558527013715'>
+            <name>Login to the Account</name>
+            <title>Login to the Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bd0e1061-d295-4190-b66d-84fd26c91402-attachment.png' type='image/png' size='12981'/>
+            </attachments>
+        </test-case>
+        <test-case start='1558527013715' status='passed' stop='1558527026712'>
+            <name>Validate Add Customer</name>
+            <title>Validate Add Customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4831f50d-c068-4ce8-ba2f-1eaa832bb3bd-attachment.png' type='image/png' size='22861'/>
+            </attachments>
+        </test-case>
+        <test-case start='1558527026712' status='passed' stop='1558527044449'>
+            <name>Validate Open Account</name>
+            <title>Validate Open Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f299383e-6ecf-42bf-aeb2-ba31439e9c0d-attachment.png' type='image/png' size='37820'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

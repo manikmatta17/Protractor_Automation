@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1558525560144' stop='1558525568750'>
+    <name>Automating Bank Manager Login Functionality</name>
+    <title>Automating Bank Manager Login Functionality</title>
+    <test-cases>
+        <test-case start='1558525560145' status='passed' stop='1558525568748'>
+            <name>Login to the Account</name>
+            <title>Login to the Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1919fd39-976c-4e81-bacf-6e97ccd56e6a-attachment.png' type='image/png' size='12981'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

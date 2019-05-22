@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Automating Customer Login Functionality",
+    "children" : [ {
+      "name" : "Login to the Account",
+      "uid" : "7bd8e3d3ff5113c2",
+      "parentUid" : "36a476fb75484a89e14b0fbedef59e5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558525068094,
+        "stop" : 1558525073766,
+        "duration" : 5672
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Validate deposit",
+      "uid" : "3463d096d2c8792c",
+      "parentUid" : "36a476fb75484a89e14b0fbedef59e5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558525073766,
+        "stop" : 1558525080669,
+        "duration" : 6903
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "WithDrawl Amount",
+      "uid" : "464b2c692cc6e4b8",
+      "parentUid" : "36a476fb75484a89e14b0fbedef59e5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558525080669,
+        "stop" : 1558525087480,
+        "duration" : 6811
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "36a476fb75484a89e14b0fbedef59e5a"
+  } ]
+}

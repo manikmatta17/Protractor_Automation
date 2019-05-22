@@ -1,0 +1,113 @@
+{
+  "uid" : "3463d096d2c8792c",
+  "name" : "Validate deposit",
+  "fullName" : "Automating Customer Login Functionality.Validate deposit",
+  "historyId" : "b70fcabd181f63513cf3518e0b910f1d",
+  "time" : {
+    "start" : 1558525073766,
+    "stop" : 1558525080669,
+    "duration" : 6903
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1233710a326f4fd0",
+      "name" : "Screenshot",
+      "source" : "1233710a326f4fd0.png",
+      "type" : "image/png",
+      "size" : 27117
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validate deposit"
+  }, {
+    "name" : "package",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6f3f89d977733354",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558525023273,
+        "stop" : 1558525030169,
+        "duration" : 6896
+      }
+    }, {
+      "uid" : "5948b191189ae489",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558524859330,
+        "stop" : 1558524866245,
+        "duration" : 6915
+      }
+    }, {
+      "uid" : "4de3367b3ae9a692",
+      "status" : "failed",
+      "statusDetails" : "Failed: expect(...).toequals is not a function",
+      "time" : {
+        "start" : 1558524731300,
+        "stop" : 1558524738125,
+        "duration" : 6825
+      }
+    }, {
+      "uid" : "ecce35be07d33ae0",
+      "status" : "failed",
+      "statusDetails" : "Failed: thread is not defined",
+      "time" : {
+        "start" : 1558524626888,
+        "stop" : 1558524627236,
+        "duration" : 348
+      }
+    }, {
+      "uid" : "2e6021fc22673d85",
+      "status" : "failed",
+      "statusDetails" : "Failed: thread is not defined",
+      "time" : {
+        "start" : 1558524580332,
+        "stop" : 1558524580913,
+        "duration" : 581
+      }
+    }, {
+      "uid" : "d865b43836c0c09f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: by.model(\"amount\")",
+      "time" : {
+        "start" : 1558524410834,
+        "stop" : 1558524411530,
+        "duration" : 696
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3463d096d2c8792c.json",
+  "parameterValues" : [ ]
+}

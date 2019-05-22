@@ -1,0 +1,59 @@
+{
+  "uid" : "8087f24347b7c321",
+  "name" : "Login to the Account",
+  "fullName" : "Automating Customer Login Functionality.Login to the Account",
+  "historyId" : "2bd936f47c884ff9d694562b36206ef9",
+  "time" : {
+    "start" : 1558524724873,
+    "stop" : 1558524731300,
+    "duration" : 6427
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1070bef1e02f9899",
+      "name" : "Screenshot",
+      "source" : "1070bef1e02f9899.png",
+      "type" : "image/png",
+      "size" : 12167
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login to the Account"
+  }, {
+    "name" : "package",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8087f24347b7c321.json",
+  "parameterValues" : [ ]
+}

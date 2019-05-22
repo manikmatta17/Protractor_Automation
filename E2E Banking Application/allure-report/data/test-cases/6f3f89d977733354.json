@@ -1,0 +1,59 @@
+{
+  "uid" : "6f3f89d977733354",
+  "name" : "Validate deposit",
+  "fullName" : "Automating Customer Login Functionality.Validate deposit",
+  "historyId" : "b70fcabd181f63513cf3518e0b910f1d",
+  "time" : {
+    "start" : 1558525023273,
+    "stop" : 1558525030169,
+    "duration" : 6896
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7e480403be453fe5",
+      "name" : "Screenshot",
+      "source" : "7e480403be453fe5.png",
+      "type" : "image/png",
+      "size" : 27117
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validate deposit"
+  }, {
+    "name" : "package",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f3f89d977733354.json",
+  "parameterValues" : [ ]
+}

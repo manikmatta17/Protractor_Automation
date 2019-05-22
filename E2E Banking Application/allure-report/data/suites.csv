@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 22 21:38:00 AEST 2019","Wed May 22 21:38:07 AEST 2019","6811","","Automating Customer Login Functionality","","Automating Customer Login Functionality","WithDrawl Amount","WithDrawl Amount",""
+"passed","Wed May 22 21:37:48 AEST 2019","Wed May 22 21:37:53 AEST 2019","5672","","Automating Customer Login Functionality","","Automating Customer Login Functionality","Login to the Account","Login to the Account",""
+"passed","Wed May 22 21:37:53 AEST 2019","Wed May 22 21:38:00 AEST 2019","6903","","Automating Customer Login Functionality","","Automating Customer Login Functionality","Validate deposit","Validate deposit",""

@@ -1,0 +1,195 @@
+{
+  "uid" : "7bd8e3d3ff5113c2",
+  "name" : "Login to the Account",
+  "fullName" : "Automating Customer Login Functionality.Login to the Account",
+  "historyId" : "2bd936f47c884ff9d694562b36206ef9",
+  "time" : {
+    "start" : 1558525068094,
+    "stop" : 1558525073766,
+    "duration" : 5672
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c0ba865b76768966",
+      "name" : "Screenshot",
+      "source" : "c0ba865b76768966.png",
+      "type" : "image/png",
+      "size" : 20607
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login to the Account"
+  }, {
+    "name" : "package",
+    "value" : "Automating Customer Login Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9291e89c50e1bbeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558525016701,
+        "stop" : 1558525023273,
+        "duration" : 6572
+      }
+    }, {
+      "uid" : "a9d71014ef90500b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558524853354,
+        "stop" : 1558524859330,
+        "duration" : 5976
+      }
+    }, {
+      "uid" : "8087f24347b7c321",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558524724873,
+        "stop" : 1558524731300,
+        "duration" : 6427
+      }
+    }, {
+      "uid" : "3ab088147e3eae56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558524620660,
+        "stop" : 1558524626888,
+        "duration" : 6228
+      }
+    }, {
+      "uid" : "e6cd4db9e2b8c10c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: by.buttonText(\"Customer Login\")",
+      "time" : {
+        "start" : 1558524575580,
+        "stop" : 1558524580331,
+        "duration" : 4751
+      }
+    }, {
+      "uid" : "8e9ecc05f87382ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558524402800,
+        "stop" : 1558524410834,
+        "duration" : 8034
+      }
+    }, {
+      "uid" : "b640ab4b39b3cdd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558523811776,
+        "stop" : 1558523819574,
+        "duration" : 7798
+      }
+    }, {
+      "uid" : "55c7acc8e776c2f7",
+      "status" : "failed",
+      "statusDetails" : "Failed: l is not defined",
+      "time" : {
+        "start" : 1558523779507,
+        "stop" : 1558523780005,
+        "duration" : 498
+      }
+    }, {
+      "uid" : "78a8bc4e9396db5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558523293478,
+        "stop" : 1558523300517,
+        "duration" : 7039
+      }
+    }, {
+      "uid" : "a8831d1a560342d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558523210738,
+        "stop" : 1558523217057,
+        "duration" : 6319
+      }
+    }, {
+      "uid" : "6eb853309f9d7ae4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558523181138,
+        "stop" : 1558523186755,
+        "duration" : 5617
+      }
+    }, {
+      "uid" : "adfed19123728ae7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558523159526,
+        "stop" : 1558523166072,
+        "duration" : 6546
+      }
+    }, {
+      "uid" : "6b3d457b143889ed",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1558523100383,
+        "stop" : 1558523106438,
+        "duration" : 6055
+      }
+    }, {
+      "uid" : "74c959bd3a562510",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1558523030313,
+        "stop" : 1558523039343,
+        "duration" : 9030
+      }
+    }, {
+      "uid" : "24b806bebcf8453c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: by.buttonText(\"Customer Login\")",
+      "time" : {
+        "start" : 1558522901042,
+        "stop" : 1558522904012,
+        "duration" : 2970
+      }
+    }, {
+      "uid" : "e7b48410f9e392e4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: by.buttonText(\"Customer Login\")",
+      "time" : {
+        "start" : 1558522814039,
+        "stop" : 1558522816720,
+        "duration" : 2681
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7bd8e3d3ff5113c2.json",
+  "parameterValues" : [ ]
+}
