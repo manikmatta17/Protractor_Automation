@@ -1,0 +1,101 @@
+{
+  "uid" : "7d0f770dcbfe1da8",
+  "name" : "Add a Cusomer",
+  "fullName" : "Add Customer Testcases.Add a Cusomer",
+  "historyId" : "f0bd5b692694d1dfc38c426872bee415",
+  "time" : {
+    "start" : 1558828736896,
+    "stop" : 1558828750573,
+    "duration" : 13677
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f8c846b29c41fd50",
+      "name" : "Screenshot",
+      "source" : "f8c846b29c41fd50.png",
+      "type" : "image/png",
+      "size" : 26243
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add a Cusomer"
+  }, {
+    "name" : "package",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8ed549ded8e5745f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827641460,
+        "stop" : 1558827654531,
+        "duration" : 13071
+      }
+    }, {
+      "uid" : "9e7124d397a19ee8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827371848,
+        "stop" : 1558827384986,
+        "duration" : 13138
+      }
+    }, {
+      "uid" : "26849805d708bc5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827166983,
+        "stop" : 1558827180109,
+        "duration" : 13126
+      }
+    }, {
+      "uid" : "4169940aa69c8872",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558826611084,
+        "stop" : 1558826624765,
+        "duration" : 13681
+      }
+    }, {
+      "uid" : "b96f50fc0cea304e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558826212054,
+        "stop" : 1558826225275,
+        "duration" : 13221
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d0f770dcbfe1da8.json",
+  "parameterValues" : [ ]
+}

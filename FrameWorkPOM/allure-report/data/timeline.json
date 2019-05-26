@@ -1,0 +1,89 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Add a Cusomer",
+    "uid" : "7d0f770dcbfe1da8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1558828736896,
+      "stop" : 1558828750573,
+      "duration" : 13677
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Open an Account",
+    "uid" : "d94ffb812797c20d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1558825594609,
+      "stop" : 1558825619368,
+      "duration" : 24759
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Open an Account",
+    "uid" : "228852ff7f63b5ad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1558828750573,
+      "stop" : 1558828766418,
+      "duration" : 15845
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Bank Manager",
+    "uid" : "90b1af832f993f80",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1558828715058,
+      "stop" : 1558828736881,
+      "duration" : 21823
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Search for customers",
+    "uid" : "3fbcc5a8a1598979",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1558828766418,
+      "stop" : 1558828777287,
+      "duration" : 10869
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Search for customers",
+    "uid" : "971776f4866ba891",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1558825619368,
+      "stop" : 1558825629528,
+      "duration" : 10160
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add a Cusomer",
+    "uid" : "3a8cdc8bfd5c48c2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1558825580403,
+      "stop" : 1558825594609,
+      "duration" : 14206
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  } ]
+}

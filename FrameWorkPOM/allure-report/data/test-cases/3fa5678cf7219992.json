@@ -1,0 +1,59 @@
+{
+  "uid" : "3fa5678cf7219992",
+  "name" : "Search for customers",
+  "fullName" : "Add Customer Testcases.Search for customers",
+  "historyId" : "6556c6f26ec87f67a32840c9d79942c",
+  "time" : {
+    "start" : 1558827400207,
+    "stop" : 1558827410254,
+    "duration" : 10047
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1ce0a2615615bd4a",
+      "name" : "Screenshot",
+      "source" : "1ce0a2615615bd4a.png",
+      "type" : "image/png",
+      "size" : 24112
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search for customers"
+  }, {
+    "name" : "package",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fa5678cf7219992.json",
+  "parameterValues" : [ ]
+}

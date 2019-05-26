@@ -1,0 +1,59 @@
+{
+  "uid" : "26849805d708bc5d",
+  "name" : "Add a Cusomer",
+  "fullName" : "Add Customer Testcases.Add a Cusomer",
+  "historyId" : "f0bd5b692694d1dfc38c426872bee415",
+  "time" : {
+    "start" : 1558827166983,
+    "stop" : 1558827180109,
+    "duration" : 13126
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "67e8b608fb8c858",
+      "name" : "Screenshot",
+      "source" : "67e8b608fb8c858.png",
+      "type" : "image/png",
+      "size" : 22861
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add a Cusomer"
+  }, {
+    "name" : "package",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26849805d708bc5d.json",
+  "parameterValues" : [ ]
+}

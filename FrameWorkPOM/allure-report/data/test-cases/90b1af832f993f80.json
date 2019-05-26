@@ -1,0 +1,254 @@
+{
+  "uid" : "90b1af832f993f80",
+  "name" : "Login as Bank Manager",
+  "fullName" : "BankManager Login Test.Login as Bank Manager",
+  "historyId" : "b89488222979427fe685de92d6ef7c9d",
+  "time" : {
+    "start" : 1558828715058,
+    "stop" : 1558828736881,
+    "duration" : 21823
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "91b664912fcfb8b6",
+      "name" : "Screenshot",
+      "source" : "91b664912fcfb8b6.png",
+      "type" : "image/png",
+      "size" : 26243
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login as Bank Manager"
+  }, {
+    "name" : "package",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "75cd1c90d1b3c08b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558828666517,
+        "stop" : 1558828688150,
+        "duration" : 21633
+      }
+    }, {
+      "uid" : "fd97079dabb5bb2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558828457485,
+        "stop" : 1558828479536,
+        "duration" : 22051
+      }
+    }, {
+      "uid" : "7f36ff35e6fc5220",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558828421005,
+        "stop" : 1558828441258,
+        "duration" : 20253
+      }
+    }, {
+      "uid" : "bd7b3262f38ca265",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558828141638,
+        "stop" : 1558828162402,
+        "duration" : 20764
+      }
+    }, {
+      "uid" : "230a4c3ed998d139",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827626681,
+        "stop" : 1558827641447,
+        "duration" : 14766
+      }
+    }, {
+      "uid" : "bca7af26846039ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827357696,
+        "stop" : 1558827371833,
+        "duration" : 14137
+      }
+    }, {
+      "uid" : "f4c0d0da4d51b7a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827152173,
+        "stop" : 1558827166967,
+        "duration" : 14794
+      }
+    }, {
+      "uid" : "871f078c7909fbdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558826603055,
+        "stop" : 1558826611054,
+        "duration" : 7999
+      }
+    }, {
+      "uid" : "f1dc42e0ce7d68e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558826204588,
+        "stop" : 1558826212039,
+        "duration" : 7451
+      }
+    }, {
+      "uid" : "599c2fe0c1c6f967",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558826162283,
+        "stop" : 1558826169519,
+        "duration" : 7236
+      }
+    }, {
+      "uid" : "8c5b6c44efa09cf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825977798,
+        "stop" : 1558825985458,
+        "duration" : 7660
+      }
+    }, {
+      "uid" : "d007918344bab77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825906500,
+        "stop" : 1558825913882,
+        "duration" : 7382
+      }
+    }, {
+      "uid" : "7d0a7a95f5b9359d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825573201,
+        "stop" : 1558825580403,
+        "duration" : 7202
+      }
+    }, {
+      "uid" : "aa76782bcee2ef32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825381114,
+        "stop" : 1558825389373,
+        "duration" : 8259
+      }
+    }, {
+      "uid" : "b2ddf3f8967901f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825284842,
+        "stop" : 1558825293142,
+        "duration" : 8300
+      }
+    }, {
+      "uid" : "e117f63a80699cf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825072113,
+        "stop" : 1558825079637,
+        "duration" : 7524
+      }
+    }, {
+      "uid" : "52d668daae4ad4c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558824881428,
+        "stop" : 1558824888771,
+        "duration" : 7343
+      }
+    }, {
+      "uid" : "e4672df9955c119f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558824826613,
+        "stop" : 1558824834625,
+        "duration" : 8012
+      }
+    }, {
+      "uid" : "cc48f2c3b81d988e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558824503762,
+        "stop" : 1558824511260,
+        "duration" : 7498
+      }
+    }, {
+      "uid" : "116d96d8973989fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558823945863,
+        "stop" : 1558823953520,
+        "duration" : 7657
+      }
+    }, {
+      "uid" : "f3dd9e6d10909fe1",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Protractor practice website - Banking App' to be 'Protractor'.",
+      "time" : {
+        "start" : 1558823900875,
+        "stop" : 1558823908645,
+        "duration" : 7770
+      }
+    }, {
+      "uid" : "8cb6dbee88139012",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558823721293,
+        "stop" : 1558823727815,
+        "duration" : 6522
+      }
+    }, {
+      "uid" : "a6e06448eafa943",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558823358855,
+        "stop" : 1558823365781,
+        "duration" : 6926
+      }
+    }, {
+      "uid" : "50772e16be47f11a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558764289078,
+        "stop" : 1558764294911,
+        "duration" : 5833
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90b1af832f993f80.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1558831414185' stop='1558831434225'>
+    <name>BankManager Login Test</name>
+    <title>BankManager Login Test</title>
+    <test-cases>
+        <test-case start='1558831414185' status='passed' stop='1558831434224'>
+            <name>Login as Bank Manager</name>
+            <title>Login as Bank Manager</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3176a6ec-87f4-4441-bc10-5b647fd18187-attachment.png' type='image/png' size='22861'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

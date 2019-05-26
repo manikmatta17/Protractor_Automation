@@ -1,0 +1,159 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1558834003736' stop='1558834004713'>
+    <name>Add Customer Testcases</name>
+    <title>Add Customer Testcases</title>
+    <test-cases>
+        <test-case start='1558834003736' status='failed' stop='1558834004062'>
+            <name>Add a Cusomer</name>
+            <title>Add a Cusomer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7850b758-012b-41bd-8960-0cc38280fb30-attachment.png' type='image/png' size='3245'/>
+            </attachments>
+            <failure>
+                <message>Failed: OR is not defined</message>
+                <stack-trace>ReferenceError: OR is not defined
+                    at AddCustomerDetails.gotoAddCustomer (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\Pages\AddCustomerDetails.js:8:28)
+                    at UserContext.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:9:22)
+                    at C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at asyncRun (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25)
+                    at C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                From: Task: Run it("Add a Cusomer") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
+                    at Spec.execute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
+                    at UserContext.fn (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
+                    at attempt (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:7:5)
+                    at addSpecsToSuite (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:4:1)
+                    at Module._compile (internal/modules/cjs/loader.js:688:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+                    at Module.load (internal/modules/cjs/loader.js:598:32)
+                    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1558834004062' status='failed' stop='1558834004400'>
+            <name>Open an Account</name>
+            <title>Open an Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='84727c9e-9905-493d-9a1d-e5d75b6db905-attachment.png' type='image/png' size='3245'/>
+            </attachments>
+            <failure>
+                <message>Failed: Error while waiting for Protractor to sync with the page: "both angularJS testability and angular testability are undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details"</message>
+                <stack-trace>Error: Error while waiting for Protractor to sync with the page: "both angularJS testability and angular testability are undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details"
+                    at runWaitForAngularScript.then (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\built\browser.js:463:23)
+                    at ManagedPromise.invokeCallback_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at asyncRun (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)
+                    at C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:68:7)Error
+                    at ElementArrayFinder.applyAction_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.(anonymous function).args [as click] (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.(anonymous function).args [as click] (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+                    at AddCustomerDetails.gotoOpenAccount (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\Pages\AddCustomerDetails.js:34:46)
+                    at UserContext.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:17:22)
+                    at C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                From: Task: Run it("Open an Account") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
+                    at Spec.execute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
+                    at UserContext.fn (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
+                    at attempt (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:15:5)
+                    at addSpecsToSuite (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:4:1)
+                    at Module._compile (internal/modules/cjs/loader.js:688:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+                    at Module.load (internal/modules/cjs/loader.js:598:32)
+                    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1558834004400' status='failed' stop='1558834004713'>
+            <name>Search for customers</name>
+            <title>Search for customers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5c4d3466-0335-4260-b3fd-8268472af028-attachment.png' type='image/png' size='3245'/>
+            </attachments>
+            <failure>
+                <message>Failed: Error while waiting for Protractor to sync with the page: "both angularJS testability and angular testability are undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details"</message>
+                <stack-trace>Error: Error while waiting for Protractor to sync with the page: "both angularJS testability and angular testability are undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details"
+                    at runWaitForAngularScript.then (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\built\browser.js:463:23)
+                    at ManagedPromise.invokeCallback_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at asyncRun (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)
+                    at C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:68:7)Error
+                    at ElementArrayFinder.applyAction_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.(anonymous function).args [as click] (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.(anonymous function).args [as click] (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+                    at AddCustomerDetails.gotoSearchCustomer (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\Pages\AddCustomerDetails.js:50:43)
+                    at UserContext.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:25:22)
+                    at C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                From: Task: Run it("Search for customers") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
+                    at Spec.execute (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
+                    at UserContext.fn (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
+                    at attempt (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:23:5)
+                    at addSpecsToSuite (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\Harish\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\Harish\Desktop\Automation\Protractor\FrameWorkPOM\test_spec\AddCustomerTestCases.js:4:1)
+                    at Module._compile (internal/modules/cjs/loader.js:688:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+                    at Module.load (internal/modules/cjs/loader.js:598:32)
+                    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,59 @@
+{
+  "uid" : "f3916d830a7195cd",
+  "name" : "Open an Account",
+  "fullName" : "Add Customer Testcases.Open an Account",
+  "historyId" : "6fe1cece677c89aefd1d452a29aeab1e",
+  "time" : {
+    "start" : 1558826225275,
+    "stop" : 1558826249927,
+    "duration" : 24652
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "93887d73c477b566",
+      "name" : "Screenshot",
+      "source" : "93887d73c477b566.png",
+      "type" : "image/png",
+      "size" : 21308
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open an Account"
+  }, {
+    "name" : "package",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3916d830a7195cd.json",
+  "parameterValues" : [ ]
+}

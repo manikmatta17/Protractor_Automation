@@ -1,0 +1,63 @@
+{
+  "uid" : "ec629f7d0acf46d3",
+  "name" : "Open an Account",
+  "fullName" : "BankManager Login Test.Open an Account",
+  "historyId" : "c9687ea834115b41132fa51ce2d4f490",
+  "time" : {
+    "start" : 1558824847753,
+    "stop" : 1558824848066,
+    "duration" : 313
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: mySelect is not defined",
+  "statusTrace" : "ReferenceError: mySelect is not defined\n                    at AddCustomerDetails.openAccount (C:\\Users\\Harish\\Desktop\\Automation\\Protractor\\FrameWorkPOM\\Pages\\AddCustomerDetails.js:39:9)\n                    at UserContext.<anonymous> (C:\\Users\\Harish\\Desktop\\Automation\\Protractor\\FrameWorkPOM\\test_spec\\BankManagerTestCases.js:33:22)\n                    at C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                From: Task: Run it(\"Open an Account\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at Spec.execute (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:526:10)\n                    at UserContext.fn (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5340:37)\n                    at attempt (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\Harish\\Desktop\\Automation\\Protractor\\FrameWorkPOM\\test_spec\\BankManagerTestCases.js:30:5)\n                    at addSpecsToSuite (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\Harish\\Desktop\\Automation\\Protractor\\FrameWorkPOM\\test_spec\\BankManagerTestCases.js:8:1)\n                    at Module._compile (internal/modules/cjs/loader.js:688:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)\n                    at Module.load (internal/modules/cjs/loader.js:598:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: mySelect is not defined",
+    "statusTrace" : "ReferenceError: mySelect is not defined\n                    at AddCustomerDetails.openAccount (C:\\Users\\Harish\\Desktop\\Automation\\Protractor\\FrameWorkPOM\\Pages\\AddCustomerDetails.js:39:9)\n                    at UserContext.<anonymous> (C:\\Users\\Harish\\Desktop\\Automation\\Protractor\\FrameWorkPOM\\test_spec\\BankManagerTestCases.js:33:22)\n                    at C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                From: Task: Run it(\"Open an Account\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at Spec.execute (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:526:10)\n                    at UserContext.fn (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5340:37)\n                    at attempt (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\Harish\\Desktop\\Automation\\Protractor\\FrameWorkPOM\\test_spec\\BankManagerTestCases.js:30:5)\n                    at addSpecsToSuite (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\Harish\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\Harish\\Desktop\\Automation\\Protractor\\FrameWorkPOM\\test_spec\\BankManagerTestCases.js:8:1)\n                    at Module._compile (internal/modules/cjs/loader.js:688:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)\n                    at Module.load (internal/modules/cjs/loader.js:598:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1071513f4a0fac8",
+      "name" : "Screenshot",
+      "source" : "e1071513f4a0fac8.png",
+      "type" : "image/png",
+      "size" : 22861
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open an Account"
+  }, {
+    "name" : "package",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec629f7d0acf46d3.json",
+  "parameterValues" : [ ]
+}

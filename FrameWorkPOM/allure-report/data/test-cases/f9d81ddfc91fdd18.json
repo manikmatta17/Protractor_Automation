@@ -1,0 +1,59 @@
+{
+  "uid" : "f9d81ddfc91fdd18",
+  "name" : "Search for customers",
+  "fullName" : "BankManager Login Test.Search for customers",
+  "historyId" : "95eaae96a356b4384d213272e5901b85",
+  "time" : {
+    "start" : 1558824848066,
+    "stop" : 1558824857779,
+    "duration" : 9713
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7f7bbcaf4549db81",
+      "name" : "Screenshot",
+      "source" : "7f7bbcaf4549db81.png",
+      "type" : "image/png",
+      "size" : 24190
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search for customers"
+  }, {
+    "name" : "package",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9d81ddfc91fdd18.json",
+  "parameterValues" : [ ]
+}

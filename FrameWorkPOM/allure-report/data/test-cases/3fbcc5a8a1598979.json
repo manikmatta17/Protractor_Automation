@@ -1,0 +1,101 @@
+{
+  "uid" : "3fbcc5a8a1598979",
+  "name" : "Search for customers",
+  "fullName" : "Add Customer Testcases.Search for customers",
+  "historyId" : "6556c6f26ec87f67a32840c9d79942c",
+  "time" : {
+    "start" : 1558828766418,
+    "stop" : 1558828777287,
+    "duration" : 10869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ecb8d6c71a9a77f",
+      "name" : "Screenshot",
+      "source" : "2ecb8d6c71a9a77f.png",
+      "type" : "image/png",
+      "size" : 27383
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testClass",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search for customers"
+  }, {
+    "name" : "package",
+    "value" : "Add Customer Testcases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "54d0053b6659132b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827669209,
+        "stop" : 1558827679466,
+        "duration" : 10257
+      }
+    }, {
+      "uid" : "3fa5678cf7219992",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827400207,
+        "stop" : 1558827410254,
+        "duration" : 10047
+      }
+    }, {
+      "uid" : "b770b74479bc7d08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558827194785,
+        "stop" : 1558827204653,
+        "duration" : 9868
+      }
+    }, {
+      "uid" : "532d62d82c1fcb00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558826639483,
+        "stop" : 1558826649318,
+        "duration" : 9835
+      }
+    }, {
+      "uid" : "e8c386898fe4321f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558826249927,
+        "stop" : 1558826259922,
+        "duration" : 9995
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fbcc5a8a1598979.json",
+  "parameterValues" : [ ]
+}

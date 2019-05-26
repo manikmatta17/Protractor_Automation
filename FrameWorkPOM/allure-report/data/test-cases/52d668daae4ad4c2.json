@@ -1,0 +1,59 @@
+{
+  "uid" : "52d668daae4ad4c2",
+  "name" : "Login as Bank Manager",
+  "fullName" : "BankManager Login Test.Login as Bank Manager",
+  "historyId" : "b89488222979427fe685de92d6ef7c9d",
+  "time" : {
+    "start" : 1558824881428,
+    "stop" : 1558824888771,
+    "duration" : 7343
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "41e1c8e87fbe7275",
+      "name" : "Screenshot",
+      "source" : "41e1c8e87fbe7275.png",
+      "type" : "image/png",
+      "size" : 14537
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login as Bank Manager"
+  }, {
+    "name" : "package",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52d668daae4ad4c2.json",
+  "parameterValues" : [ ]
+}

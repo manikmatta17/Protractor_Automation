@@ -1,0 +1,103 @@
+{
+  "uid" : "d94ffb812797c20d",
+  "name" : "Open an Account",
+  "fullName" : "BankManager Login Test.Open an Account",
+  "historyId" : "c9687ea834115b41132fa51ce2d4f490",
+  "time" : {
+    "start" : 1558825594609,
+    "stop" : 1558825619368,
+    "duration" : 24759
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0e1624b9acaee30",
+      "name" : "Screenshot",
+      "source" : "a0e1624b9acaee30.png",
+      "type" : "image/png",
+      "size" : 21349
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open an Account"
+  }, {
+    "name" : "package",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6b3a9e84e3d72c36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825402937,
+        "stop" : 1558825417746,
+        "duration" : 14809
+      }
+    }, {
+      "uid" : "e93912708426929e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825297103,
+        "stop" : 1558825312391,
+        "duration" : 15288
+      }
+    }, {
+      "uid" : "66cf8bf0cd7d869a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825092815,
+        "stop" : 1558825107508,
+        "duration" : 14693
+      }
+    }, {
+      "uid" : "45aa2f7b8bbeb899",
+      "status" : "failed",
+      "statusDetails" : "Failed: mySelect is not defined",
+      "time" : {
+        "start" : 1558824902110,
+        "stop" : 1558824902435,
+        "duration" : 325
+      }
+    }, {
+      "uid" : "ec629f7d0acf46d3",
+      "status" : "failed",
+      "statusDetails" : "Failed: mySelect is not defined",
+      "time" : {
+        "start" : 1558824847753,
+        "stop" : 1558824848066,
+        "duration" : 313
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d94ffb812797c20d.json",
+  "parameterValues" : [ ]
+}

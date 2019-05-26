@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun May 26 09:58:56 AEST 2019","Sun May 26 09:59:10 AEST 2019","13677","","Add Customer Testcases","","Add Customer Testcases","Add a Cusomer","Add a Cusomer",""
+"passed","Sun May 26 09:06:34 AEST 2019","Sun May 26 09:06:59 AEST 2019","24759","","BankManager Login Test","","BankManager Login Test","Open an Account","Open an Account",""
+"passed","Sun May 26 09:59:10 AEST 2019","Sun May 26 09:59:26 AEST 2019","15845","","Add Customer Testcases","","Add Customer Testcases","Open an Account","Open an Account",""
+"passed","Sun May 26 09:58:35 AEST 2019","Sun May 26 09:58:56 AEST 2019","21823","","BankManager Login Test","","BankManager Login Test","Login as Bank Manager","Login as Bank Manager",""
+"passed","Sun May 26 09:59:26 AEST 2019","Sun May 26 09:59:37 AEST 2019","10869","","Add Customer Testcases","","Add Customer Testcases","Search for customers","Search for customers",""
+"passed","Sun May 26 09:06:59 AEST 2019","Sun May 26 09:07:09 AEST 2019","10160","","BankManager Login Test","","BankManager Login Test","Search for customers","Search for customers",""
+"passed","Sun May 26 09:06:20 AEST 2019","Sun May 26 09:06:34 AEST 2019","14206","","BankManager Login Test","","BankManager Login Test","Add a Cusomer","Add a Cusomer",""

@@ -1,0 +1,71 @@
+[ {
+  "uid" : "7d0f770dcbfe1da8",
+  "name" : "Add a Cusomer",
+  "time" : {
+    "start" : 1558828736896,
+    "stop" : 1558828750573,
+    "duration" : 13677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d94ffb812797c20d",
+  "name" : "Open an Account",
+  "time" : {
+    "start" : 1558825594609,
+    "stop" : 1558825619368,
+    "duration" : 24759
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "228852ff7f63b5ad",
+  "name" : "Open an Account",
+  "time" : {
+    "start" : 1558828750573,
+    "stop" : 1558828766418,
+    "duration" : 15845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90b1af832f993f80",
+  "name" : "Login as Bank Manager",
+  "time" : {
+    "start" : 1558828715058,
+    "stop" : 1558828736881,
+    "duration" : 21823
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fbcc5a8a1598979",
+  "name" : "Search for customers",
+  "time" : {
+    "start" : 1558828766418,
+    "stop" : 1558828777287,
+    "duration" : 10869
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "971776f4866ba891",
+  "name" : "Search for customers",
+  "time" : {
+    "start" : 1558825619368,
+    "stop" : 1558825629528,
+    "duration" : 10160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a8cdc8bfd5c48c2",
+  "name" : "Add a Cusomer",
+  "time" : {
+    "start" : 1558825580403,
+    "stop" : 1558825594609,
+    "duration" : 14206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

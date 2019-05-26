@@ -1,0 +1,59 @@
+{
+  "uid" : "e8f0bf622185bcc3",
+  "name" : "Add a Cusomer",
+  "fullName" : "BankManager Login Test.Add a Cusomer",
+  "historyId" : "1bff3f14079bd2bb1c78d39b28d2aa85",
+  "time" : {
+    "start" : 1558825079637,
+    "stop" : 1558825092815,
+    "duration" : 13178
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eeba5de91dfb1b13",
+      "name" : "Screenshot",
+      "source" : "eeba5de91dfb1b13.png",
+      "type" : "image/png",
+      "size" : 22861
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add a Cusomer"
+  }, {
+    "name" : "package",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8f0bf622185bcc3.json",
+  "parameterValues" : [ ]
+}

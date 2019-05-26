@@ -1,0 +1,102 @@
+{
+  "uid" : "3a8cdc8bfd5c48c2",
+  "name" : "Add a Cusomer",
+  "fullName" : "BankManager Login Test.Add a Cusomer",
+  "historyId" : "1bff3f14079bd2bb1c78d39b28d2aa85",
+  "time" : {
+    "start" : 1558825580403,
+    "stop" : 1558825594609,
+    "duration" : 14206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6933ff0290f7e6b6",
+      "name" : "Screenshot",
+      "source" : "6933ff0290f7e6b6.png",
+      "type" : "image/png",
+      "size" : 22861
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add a Cusomer"
+  }, {
+    "name" : "package",
+    "value" : "BankManager Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8903c0b9b4463c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825389373,
+        "stop" : 1558825402937,
+        "duration" : 13564
+      }
+    }, {
+      "uid" : "794ee3f6989f576c",
+      "status" : "failed",
+      "statusDetails" : "Failed: each key must be a number of string; got undefined",
+      "time" : {
+        "start" : 1558825293142,
+        "stop" : 1558825297103,
+        "duration" : 3961
+      }
+    }, {
+      "uid" : "e8f0bf622185bcc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558825079637,
+        "stop" : 1558825092815,
+        "duration" : 13178
+      }
+    }, {
+      "uid" : "35b54958f18a5bee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558824888771,
+        "stop" : 1558824902110,
+        "duration" : 13339
+      }
+    }, {
+      "uid" : "5a919d7509248280",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558824834625,
+        "stop" : 1558824847753,
+        "duration" : 13128
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a8cdc8bfd5c48c2.json",
+  "parameterValues" : [ ]
+}

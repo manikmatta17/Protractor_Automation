@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1558826611084' stop='1558826649318'>
+    <name>Add Customer Testcases</name>
+    <title>Add Customer Testcases</title>
+    <test-cases>
+        <test-case start='1558826611084' status='passed' stop='1558826624765'>
+            <name>Add a Cusomer</name>
+            <title>Add a Cusomer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f8d9babd-2adb-4db6-ba5c-edff7b23ae15-attachment.png' type='image/png' size='22861'/>
+            </attachments>
+        </test-case>
+        <test-case start='1558826624765' status='passed' stop='1558826639483'>
+            <name>Open an Account</name>
+            <title>Open an Account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d4a5e262-cb6f-4942-a5b4-37002e100ecf-attachment.png' type='image/png' size='20923'/>
+            </attachments>
+        </test-case>
+        <test-case start='1558826639483' status='passed' stop='1558826649318'>
+            <name>Search for customers</name>
+            <title>Search for customers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a4823717-5b2b-491e-a8ac-fe78265f95e5-attachment.png' type='image/png' size='24112'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
